@@ -392,6 +392,21 @@ a.icon {
   cursor: pointer;
 }
 
+
+#about {
+  background-color: #141414;
+  color: #fff;
+}
+
+#about h1 {
+  color: #fff
+}
+
+#about p {
+  color: #fff
+}
+
+
 /* header section styles
 /* ========================================== */
 #header {
