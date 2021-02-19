@@ -746,7 +746,7 @@ a.icon {
 
 #contact input {height: 50px;}
 
-#contact input[type='submit'] {
+#contact input[type='submit'], .button-black {
   background: #111112;
   color: #ffffff;
   font-size: 15px;
@@ -760,8 +760,13 @@ a.icon {
   background: #444;
 }
 
+.button-black {
+  padding: 10px 25px 10px 25px;
+}
+
 .contact-submit {
-	width: 50%;
+	/*width: 50%;*/
+  text-align: center !important; 
 }
 
 #contact .col-md-4 {
